@@ -1,0 +1,137 @@
+www.python.org
+
+versions of python
+------------------
+2.x and 3.x
+
+1. syntax changes			-> print "hello"		=>	print("Hello")
+
+2. many libraries are deprecated
+
+
+Falvours of python
+-------------------
+1. Cpython 							-		currently using
+2. Jython								-		convert python code to java code
+3. Iron Python					- 	use dotnet libraries
+
+Editors
+-------
+1. Notepad++	
+2. Pycharm	Community edition
+
+3. Eclipse
+4. VS code Community edition
+5. Sublime text
+
+python 3.10.x
+--------------
+1. sdk
+2. IDLE				- integrated development environment
+3. Shell		
+
+two operators overloaded are + and *
+
+Module - imp
+method - reload	
+
+
+Coding Rules
+-------------
+#! 		-	 Shebang		-	path of python executable
+
+Comments
+---------
+# - Single line comment
+
+strings are stored
+------------------
+single line string -  "  " or '  '
+
+multiple line string  - """   """ or  '''   '''
+
+"this is a sample string"
+
+"""
+this is a sample string
+this is a sample string
+this is a sample string
+this is a sample string
+this is a sample string
+this is a sample string
+this is a sample string
+"""
+
+Indentations
+------------
+1. loops
+2. if condition
+3. functions
+
+C, c++
+------
+void function fun()
+{
+	print("function code")
+}
+
+
+Python
+-------
+def fun():
+	print("function fun code....")
+
+	for i in range(1, 11):
+		print("for loop code...")
+			
+			if i % 2 == 0:
+				print("if condition code...")
+				print (i)
+		
+		print("for loop code...")
+
+	print("function fun code....")
+
+
+print(" module __main__ code")
+
+
+Primitive data types
+--------------------
+1. Number 
+	a. integer
+	b. float
+	c. complex numbers
+
+2. Strings
+
+3. Boolean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

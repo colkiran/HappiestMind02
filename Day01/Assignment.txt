@@ -1,0 +1,4 @@
+
+prob -
+st = "hello world"
+use replace function and replace 'l' with "L" in world
