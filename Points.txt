@@ -184,13 +184,55 @@ string are immutable
 3 equal parts => 1 reminder => give the reminder to the kid
 
 
+==========================================================================================
+                                   Day 2
+========================================================================================
+Formatting
+----------
+
+Data Structures
+----------------
+1. list
+2. Dictionary
+3. Tuples
+4. Sets
+
+Array
+-----
+1. collection of homogenous data
+2. Memory allocation is contigious
 
 
+Lists
+------
+lists are same as arrays
+1. lists are a collection of hetrogenous data
+2. Memory allocation is not contigious
+3. its an ordered collection
+4. subscriptable
+5. mutable
+6. lists are enclosed in [ ]
 
+Functions to manipulate a list
 
+Add elements = append, extend, insert
+Delete elements = clear, pop, remove
 
+copy
+count
+index
+reverse
+sort
 
+Dictionary
+----------
+data will be stored in the form of key and value pairs - {k1: v1, k2: v2, k3: v3......}
 
+all keys in a dictionary will be unique
+they are unordered collection
+all dictionaries are enclosed in { }
+they are mutable
 
-
-
+Dictionary Manipulation functions
+----------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
