@@ -302,10 +302,18 @@ open the emp.csv file and find the following
     d. sum of all salaries
 
 
+['empid', 'empname', 'age', 'dept', 'salary']
+['501', 'Jack', '28', 'HR', '65000']
+['235', 'Jill', '34', 'FIN', '35000']
+['150', 'John', '26', 'AC', '25000']
+['325', 'Jai', '21', 'DEV', '55000']
+['450', 'Guru', '38', 'DEV', '85000']
+['182', 'Sita', '32', 'PRC', '75000']
+['297', 'Gita', '36', 'SUP', '60000']
+
+WAMP - windows, Apache, Mysql, PHP
 
 
+change it from '36 FIFA Worldcup Goals'  => 4 golden boot for cristiano ronaldo
 
-
-
-
-
+Python  ->  xml (DOM, SAX)
