@@ -1,0 +1,16 @@
+
+"""
+if the file exists then we can open the file and read the contents of the file
+if the file does not exist then raises an exception FILENOTFOUND
+its the default mode of opening the file
+"""
+
+FL = open("Data.txt", "r")
+
+# st = FL.read()                  # reads the entire content of the file
+
+st = FL.read(2500)
+
+print(st)
+
+FL.close()

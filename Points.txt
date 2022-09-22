@@ -236,3 +236,76 @@ they are mutable
 Dictionary Manipulation functions
 ----------------------------------
 'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+Tuples
+------
+tuples are immutable lists
+
+t = ( )
+
+Sets
+----
+1. sets are a collection of unique values
+2. sets are unordered collection
+3. sets are not subscriptable
+4. sets are mutable
+5. sets are also enclosed in { }
+
+Functions
+---------
+any reusable code kept seperately and called. this piece of code is named and called as functions
+
+lambda syntax
+--------------
+result of expression = lambda(var1, var2, var3.... : expression)
+
+List and Dictionary comprehension
+---------------------------------
+
+===============================================================================
+                                DAY- 04
+===============================================================================
+
+FileHandle = open(path + filename, "Mode")
+
+Mode =>         r   ->  only read the contents of the file
+                w   ->  erase the old contents and write into a file
+                a   ->  write contents without disturbing the old contents
+
+Open a file dynamically
+-----------------------
+1. move your file handle from one location to another
+2. you can read the contents of the file
+
+FL.Seek(offset, whence)
+    offset - no of bytes
+    whence - 0 - BOF
+             1 - CP
+             2 - EOF
+
+FL.seek(50, 0)
+FL.seek(180, 1)
+FL.seek(-50, 1)
+FL.seek(75, 1)
+FL.seek(-50, 2)
+FL.seek(200, 2)
+FL.seek(-300, 2)
+FL.seek(0,2)
+FL.seek(-10, 0)
+
+
+open the emp.csv file and find the following
+
+    a. count of males and females
+    b. unique list of dept
+    c. unique list of desig
+    d. sum of all salaries
+
+
+
+
+
+
+
+
+
